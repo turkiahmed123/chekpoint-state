@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    background-color: skyblue;
+}
+
+#btnn {
+    width: 150px;
+    height: 35px;
+    color: blanchedalmond;
+    background-color: black;
+    border-radius: 8px;
+}
